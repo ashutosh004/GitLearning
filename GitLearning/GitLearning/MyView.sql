@@ -1,2 +1,2 @@
 ﻿CREATE VIEW [dbo].[MyView]
-	AS SELECT * FROM [Emp]
+	AS SELECT ID,EmpName FROM [Emp]
